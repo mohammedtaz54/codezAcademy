@@ -1,0 +1,158 @@
+
+h2 {font-size: 60px;}
+
+/*Backgrounds*/
+.bgRed{background-color: red;}
+.bgBlue{background-color: blue;}
+.bgYellow{background-color: yellow;}
+.bgPurple{background-color: purple;}
+.bgGreen{background-color: green;}
+
+#navbarNav{
+    color: red;
+}
+
+/*Colours*/
+
+.red{color: red;}
+/*Background image example*/
+
+.bgSeal{
+	background-image: url(../img/Seal.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: 0px 0px;
+}
+.brandHeaderFont{
+	font-family: 'Open Sans Condensed', sans-serif;
+	font-size: 75px;
+}
+.brandFont{
+	font-family: 'Open Sans Condensed', sans-serif;
+	font-size: 50px;
+}
+
+.header{
+    padding-top: 100px;
+    height: 750px;
+    width: 100%;
+    background-image: url(../img/tree.jpg);
+    background-position: 0px -200px;
+    background-size: cover;
+    background-repeat: no-repeat;
+
+}
+
+.boxHeader{
+    padding: 60px;
+    border: #eaeaea solid 5px;
+    width: 50%;
+    height: 250px;
+    margin: auto;
+    color: white;
+    padding-bottom: 80px;
+    text-align: center;
+    position: relative;
+}
+
+.section {
+    padding: 100px 0;
+}
+
+.circle{
+	height: 250px;
+    width: 250px;
+    border-radius: 135px;
+	margin: auto;
+}
+
+.icon1 {padding: 86px 84px;}
+.icon2 {padding: 84px 96px;}
+.icon3 {padding: 80px 84px;}
+
+.store-box {
+    background: #d6d4d4;
+    width: 100%;
+    height: 300px;
+    padding: 120px;
+    text-align: center;
+}
+
+a:not([href]):not([tabindex]) {
+    color: #fff;
+}
+
+.background-yellow {background: #FEE1A7;}
+.background-blue {background: #7FEAFF;}
+.background-pink {background: #FB8E7A;}
+
+.white {color: #FFF;}
+
+/** Margin Top **/
+.margin-top-10 {margin-top: 10px;}
+.margin-top-20 {margin-top: 20px;}
+.margin-top-30 {margin-top: 30px;}
+.margin-top-40 {margin-top: 40px;}
+.margin-top-50 {margin-top: 50px;}
+.margin-top-60 {margin-top: 60px;}
+.margin-top-70 {margin-top: 70px;}
+.margin-top-80 {margin-top: 80px;}
+.margin-top-90 {margin-top: 90px;}
+.margin-top-100 {margin-top: 100px;}
+
+.margin-right-20 {margin-right: 20px;}
+
+.font-30 {font-size: 30px;}
+
+.width-100 {width: 100%;}
+
+.newsletter-button {border-radius: 0px 8px 8px 0px;}
+.newsletter-input {border-radius: 8px 0px 0px 8px;}
+
+footer {
+    background: #323232;
+    text-align: center;
+}
+
+footer a {color: #fff;}
+footer a:hover {#c}
+
+#facebook {
+    color: #3B5998
+}
+
+#twitter {
+    color: #00aced;
+}
+
+#instagram {
+    color: #cd486b
+}
+
+.copyright {
+    font-style: italic;
+    position: bottom;
+}
+
+hr {
+    border-style: solid;
+    border-width: 2px;
+    width: 100;
+}
+
+#points {
+    text-align: left;
+}
+
+#field1 {
+    width: 250px;
+}
+
+#field2 {
+    width: 250px;
+}
+
+
+
+
+
